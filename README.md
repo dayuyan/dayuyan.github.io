@@ -22,3 +22,26 @@
 18 DeepSeek V3 0324  
 19 ChatGPT-4o  
 20 Gemini 2.0 Flash
+
+
+OpenAI公司推出的大语言模型：  
+ChatGPT-4o  
+o3系列  
+o1系列  
+o4系列  
+ChatGPT-4.1  
+GPT-4.5 Preview
+
+
+谷歌公司推出的大语言模型：  
+Gemini 2.5 Pro Preview  
+Gemini 2.5 Flash Preview  
+Gemini 2.0 Flash
+
+
+杭州深度求索人工智能基础技术研究有限公司推出的大语言模型：  
+DeepSeek V3 0324  
+DeepSeek R1  
+
+
+
