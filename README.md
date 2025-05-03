@@ -1,7 +1,7 @@
 大语言模型综合能力排名  
 （截至2025年5月4日）  
 
-LiveBench 大语言测试排名  
+LiveBench 大语言模型测试排名  
 1  o3 High  
 2  o3 Medium  
 3  o4-Mini High  
