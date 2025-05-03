@@ -45,3 +45,31 @@ DeepSeek R1
 
 
 
+xAI公司推出的大语言模型：  
+Grok-3  
+Grok-3 mini
+
+
+Anthropic公司推出的大语言模型：  
+Claude 3.7 Sonnet Thinking  
+Claude 3.7 Sonnet  
+Claude 3.5 Sonnet  
+
+
+
+阿里巴巴公司推出的大语言模型：  
+Qwen 3 235B A22B  
+QwQ 32B  
+Qwen 3 30B A3B  
+Qwen2.5 Max  
+
+
+
+Meta公司（旗下有Facebook，INS等）推出的大语言模型：  
+Llama 4 Maverick  
+Llama 4 Scout
+
+
+
+腾讯公司推出的大语言模型：  
+Hunyuan Turbos
