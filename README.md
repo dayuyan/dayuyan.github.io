@@ -24,7 +24,7 @@
 19 ChatGPT-4o  
 20 Gemini 2.0 Flash
 
-
+---  
 
 **大模型竞技场排名：**  
 1  Gemini-2.5-Pro-Exp-03-25  
@@ -48,6 +48,8 @@
 18  GPT-4.1-mini-2025-04-14  
 19  DeepSeek-V3  
 20  QwQ-32B
+
+---
 
 OpenAI公司推出的大语言模型：  
 ChatGPT-4o  
