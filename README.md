@@ -1,7 +1,7 @@
 大语言模型综合能力排名  
 （截至2025年5月4日）  
 
-LiveBench 大语言模型测试排名  
+**LiveBench 大语言模型测试排名**  
 1  o3 High  
 2  o3 Medium  
 3  o4-Mini High  
@@ -26,7 +26,7 @@ LiveBench 大语言模型测试排名
 
 
 
-大模型竞技场排名：  
+**大模型竞技场排名：**  
 1  Gemini-2.5-Pro-Exp-03-25  
 2  o3-2025-04-16  
 3  ChatGPT-4o-latest (2025-03-26)  
