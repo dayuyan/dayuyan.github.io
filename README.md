@@ -4,25 +4,26 @@
 **LiveBench 大语言模型测试排名**  
 1  o3 High  
 2  o3 Medium  
-3  o4-Mini High  
-4  Gemini 2.5 Pro Preview  
-5  Claude 3.7 Sonnet Thinking  
-6  o4-Mini Medium  
-7  Qwen 3 235B A22B  
-8  DeepSeek R1  
-9  Qwen 3 32B  
-10 Grok 3 Mini Beta (High)
+3  Gemini 2.5 Pro Preview (2025-05-06)  
+4  o4-Mini High  
+5  Gemini 2.5 Pro Preview (2025-03-25)  
+6  Claude 3.7 Sonnet Thinking  
+7  o4-Mini Medium  
+8  Qwen 3 235B A22B  
+9  DeepSeek R1  
+10 Qwen 3 32B
 
-11 Gemini 2.5 Flash Preview  
-12 QwQ 32B  
-13 GPT-4.5 Preview  
-14 Qwen 3 30B A3B  
-15 Claude 3.7 Sonnet  
-16 Grok 3 Beta  
-17 GPT-4.1  
-18 DeepSeek V3 0324  
-19 ChatGPT-4o  
-20 Gemini 2.0 Flash
+11 Grok 3 Mini Beta (High)  
+12 Gemini 2.5 Flash Preview12 
+13 QwQ 32B  
+14 GPT-4.5 Preview  
+15 Qwen 3 30B A3B  
+16 Claude 3.7 Sonnet  
+17 Grok 3 Beta  
+18 GPT-4.1  
+19 DeepSeek V3 0324  
+20 ChatGPT-4o  
+
 
 ---  
 
