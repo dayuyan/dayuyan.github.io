@@ -14,7 +14,7 @@
 10 Qwen 3 32B
 
 11 Grok 3 Mini Beta (High)  
-12 Gemini 2.5 Flash Preview12 
+12 Gemini 2.5 Flash Preview  
 13 QwQ 32B  
 14 GPT-4.5 Preview  
 15 Qwen 3 30B A3B  
