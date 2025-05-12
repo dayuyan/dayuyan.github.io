@@ -32,23 +32,23 @@
 2  o3-2025-04-16  
 3  ChatGPT-4o-latest (2025-03-26)  
 4  Grok-3-Preview-02-24  
-5  Gemini-2.5-Flash-Preview-04-17  
-6  GPT-4.5-Preview  
-7  Gemini-2.0-Flash-Thinking-Exp-01-21  
-8  DeepSeek-V3-0324  
-9  GPT-4.1-2025-04-14  
-10  DeepSeek-R1  
-
-11  o4-mini-2025-04-16  
-12  Gemini-2.0-Flash-001  
-13  o1-2024-12-17  
-14  Qwen3-235B-A22B  
-15  Gemma-3-27B-it  
-16  Qwen2.5-Max  
-17  o1-preview  
-18  o3-mini-high  
-19  GPT-4.1-mini-2025-04-14  
-20  Gemma-3-12B-it  
+5  GPT-4.5-Preview  
+6  Gemini-2.5-Flash-Preview-04-17  
+7  DeepSeek-V3-0324  
+8  GPT-4.1-2025-04-14  
+9  DeepSeek-R1  
+10  o4-mini-2025-04-16  
+ 
+11  Gemini-2.0-Flash-001  
+12  o1-2024-12-17  
+13  Qwen3-235B-A22B  
+14  Gemma-3-27B-it  
+15  Qwen2.5-Max  
+16  o1-preview  
+17  o3-mini-high  
+18  GPT-4.1-mini-2025-04-14  
+19  Gemma-3-12B-it  
+20  DeepSeek-V3  
 
 ---
 
